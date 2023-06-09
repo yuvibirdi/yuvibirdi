@@ -24,4 +24,4 @@ and here's my LinkedIn (https://www.linkedin.com/in/yuvraj-singh-birdi-6b974926a
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaryjay&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yuvibirdi&theme=tokyonight)](https://git.io/streak-stats)
