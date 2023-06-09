@@ -3,7 +3,7 @@
 
 
 # Github Stats  
-Hi, I'm Yuvraj. I am a 11 grade student interested in Cs and Physics.
+Hi, I'm Yuvraj. I am a 11 grade student, interested in CS, Mathematics and Physics.
 
 ---
 
@@ -21,7 +21,7 @@ The below repositories are listed in descending order of greatness:
 # Contact methods
 * Gmail: yuvibirdi27@gmail.com
 * Discord: ysb#6345
-* LinkedIn https://www.linkedin.com/in/yuvraj-singh-birdi-6b974926a/
+* Linkedin: https://www.linkedin.com/in/yuvraj-singh-birdi-6b974926a/
 
 ---
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yuvibirdi&theme=tokyonight)](https://git.io/streak-stats)
