@@ -20,7 +20,7 @@ The below repositories are listed in descending order of greatness:
 
 # Contact methods
 
-* [Email](yuvibirdi27@gmail.com)
+<a href = "mailto: yuvibirdi27@gmail.com">Email</a>
 * [Discord](https://discord.gg/vkwGsPHk)
 * [Linkedin](https://www.linkedin.com/in/ystdin)
 
