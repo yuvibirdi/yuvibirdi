@@ -12,7 +12,7 @@ The below repositories are listed in descending order of greatness:
 
 * The dotfiles for my linux configuration [Config for Linux](https://gitlab.com/yuvibirdi/dotfiles-backup)
 * All my programming Data  [Programming Data](https://gitlab.com/yuvibirdi/programming)
-* All my programming Data  [My Arch Linux Installation Script](https://github.com/yuvibirdi/arch-installer)
+* My Custom Arch Linux Installation Script  [My Arch Linux Installation Script](https://github.com/yuvibirdi/arch-installer)
 * All my School notes written with emacs org-mode [School Files](https://gitlab.com/yuvibirdi/school)
 * My heavily customized and modified dwm build [My Custom Dwm Build](https://gitlab.com/yuvibirdi/school)
 * My Wallpapers [My Wallpapers Repo](https://gitlab.com/yuvibirdi/Wallpapers)
