@@ -1,9 +1,6 @@
-
-
-
-
 # Github Stats  
-**Hi, I am Yuvraj Singh Birdi, a 12 grade student, interested in Computer Science, Mathematics and Physics.**   
+**Hi, I am Yuvraj Singh Birdi, a 12 grade student, interested in Computer Science, Mathematics and Physics.**
+&nbsp;  
 For any potential recruiters please checkout my **GitLab** it is where I do the majority of my work [GitLab](https://gitlab.com/yuvibirdi/)
 
 ---
