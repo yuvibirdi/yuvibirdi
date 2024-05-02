@@ -3,7 +3,8 @@
 
 
 # Github Stats  
-Hi, I'm Yuvraj. I am a 12 grade student, interested in CS, Mathematics and Physics.
+**Hi, I am Yuvraj Singh Birdi, a 12 grade student, interested in Computer Science, Mathematics and Physics.**
+For any potential recruiters please checkout my **GitLab** it is where I do the majority of my work [GitLab](https://gitlab.com/yuvibirdi/)
 
 ---
 
@@ -22,7 +23,7 @@ The below repositories are listed in descending order of greatness:
 # Contact methods
 
 * <a href = "mailto: yuvibirdi27@gmail.com">Email</a>
-* [Discord](https://discord.gg/vkwGsPHk)
+* [Discord](ystdin)
 * [Linkedin](https://www.linkedin.com/in/ystdin)
 
 ---
