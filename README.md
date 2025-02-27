@@ -4,6 +4,10 @@
 For any potential recruiters please also checkout my **GitLab** it also contains a lot of my work [GitLab](https://gitlab.com/yuvibirdi/)
 
 ---
+![Github Stats](https://greptile-stats.vercel.app/api/widget/yuvibirdi/stats)
+![Github Contributions](https://greptile-stats.vercel.app/api/widget/yuvibirdi/contributions)
+
+---
 
 # Check out my cool repositories!
 The below repositories are listed in descending order of greatness:
@@ -19,10 +23,6 @@ The below repositories are listed in descending order of greatness:
 
 # Contact methods
 
-* <a href = "mailto: yuvibirdi27@gmail.com">Email</a>
+* <a href = "mailto: yb@yuvibirdi.com">Email</a>
 * [Discord](ystdin)
 * [Linkedin](https://www.linkedin.com/in/ystdin)
-
----
-![Github Stats](https://greptile-stats.vercel.app/api/widget/yuvibirdi/stats)
-![Github Contributions](https://greptile-stats.vercel.app/api/widget/yuvibirdi/contributions)
