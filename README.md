@@ -24,4 +24,5 @@ The below repositories are listed in descending order of greatness:
 * [Linkedin](https://www.linkedin.com/in/ystdin)
 
 ---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yuvibirdi&theme=tokyonight)](https://git.io/streak-stats)
+![Github Stats](https://greptile-stats.vercel.app/api/widget/yuvibirdi/stats)
+![Github Contributions](https://greptile-stats.vercel.app/api/widget/yuvibirdi/contributions)
