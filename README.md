@@ -3,12 +3,9 @@
 &nbsp;  
 **For any potential recruiters please also checkout my [GitLab](https://gitlab.com/yuvibirdi/) it also contains a lot of my work.**
 
----
 ![Github Stats](https://greptile-stats.vercel.app/api/widget/yuvibirdi/stats)
----
 
 # Check out my cool repositories!
-The below repositories are listed in descending order of greatness:
 
 * The dotfiles for my linux configuration [Config for Linux](https://gitlab.com/yuvibirdi/dotfiles-backup)
 * All my programming Data  [Programming Data](https://gitlab.com/yuvibirdi/programming)
