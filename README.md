@@ -13,8 +13,6 @@
 * All my School notes written with emacs org-mode [School Files](https://gitlab.com/yuvibirdi/school)
 * My heavily customized and modified dwm build [My Custom Dwm Build](https://gitlab.com/yuvibirdi/school)
 
----
-
 # Contact methods
 
 * <a href = "mailto: yb@yuvibirdi.com">Email</a>
