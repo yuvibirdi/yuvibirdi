@@ -1,12 +1,10 @@
 # Github Stats  
-**Hi, I'm Yuvraj, I am a freshman at the University of Waterloo for Computer Engineering, I am interested in Computer Science, Mathematics and Physics.**
+**Hi, I'm Yuvraj, a student at the University of Waterloo for Computer Engineering, interested in Computer Science, Mathematics and Physics.**
 &nbsp;  
-For any potential recruiters please also checkout my **GitLab** it also contains a lot of my work [GitLab](https://gitlab.com/yuvibirdi/)
+**For any potential recruiters please also checkout my [GitLab](https://gitlab.com/yuvibirdi/) it also contains a lot of my work**
 
 ---
 ![Github Stats](https://greptile-stats.vercel.app/api/widget/yuvibirdi/stats)
-![Github Contributions](https://greptile-stats.vercel.app/api/widget/yuvibirdi/contributions)
-
 ---
 
 # Check out my cool repositories!
