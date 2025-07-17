@@ -1,5 +1,5 @@
 # Github Stats  
-Hi, I'm Yuvraj, a student at the University of Waterloo for Computer Engineering, interested in Computer Science, Mathematics and Physics.
+Hi, I'm Yuvraj, a student at the University of Waterloo for Computer Engineering, interested in Computer Science, Mathematics.
 
 <!---
 **For any potential recruiters please also checkout my [GitLab](https://gitlab.com/yuvibirdi/) it also contains a lot of my work.**
