@@ -15,6 +15,6 @@ Hi, I'm Yuvraj, a student at the University of Waterloo for Computer Engineering
 
 # Contact methods
 
-* <a href = "mailto: yb@yuvibirdi.com">Email</a>
-* [Discord](ystdin)
-* [Linkedin](https://www.linkedin.com/in/ystdin)
+* <a href = "mailto: ysbirdi@uwaterloo.ca">Email</a> 
+* [Discord] @ystdin
+* [Linkedin](https://www.linkedin.com/in/ystdin) /in/ystdin/
