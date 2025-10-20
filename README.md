@@ -4,7 +4,6 @@ Hi, I'm Yuvraj, a student at the University of Waterloo for Computer Engineering
 <!---
 **For any potential recruiters please also checkout my [GitLab](https://gitlab.com/yuvibirdi/) it also contains a lot of my work.**
 ![Github Stats](https://greptile-stats.vercel.app/api/widget/yuvibirdi/stats)
---->
 # Check out my cool repositories!
 
 * The dotfiles for my linux configuration [Config for Linux](https://gitlab.com/yuvibirdi/dotfiles-backup)
@@ -12,6 +11,7 @@ Hi, I'm Yuvraj, a student at the University of Waterloo for Computer Engineering
 * My Custom Arch Linux Installation Script  [My Arch Linux Installation Script](https://github.com/yuvibirdi/arch-installer)
 * All my School notes written with emacs org-mode [School Files](https://gitlab.com/yuvibirdi/school)
 * My heavily customized and modified dwm build [My Custom Dwm Build](https://gitlab.com/yuvibirdi/school)
+--->
 
 # Contact methods
 
